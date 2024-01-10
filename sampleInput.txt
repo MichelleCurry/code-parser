@@ -1,0 +1,21 @@
+#### The following are some test strings for the compiler and parser.
+#### Un-comment only one example at a time.
+######################################################################
+
+
+the dog loves the cat .
+
+# the dog chases the slow , lazy cat up a tall tree and the rat loves the dog .
+
+# a lazy dog quickly chases the fast , sneaky , furry cat up a tall tree and the rat loves the dog .
+
+### Example with a syntax error.
+# the dog the cat .
+
+
+## Multi-line example.
+# the lazy dog quickly 
+#         chases the fast , sneaky , furry cat 
+#             up a tall tree 
+#         and the 
+# rat loves the dog .
